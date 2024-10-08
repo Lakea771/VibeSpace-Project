@@ -116,7 +116,7 @@ Push the branch to your fork:
 
 bash
 Copy code
-git push origin feature/londe lakea
+git push origin feature/Lakea771.
 Submit a pull request:
 Navigate to the original repository on GitHub and submit a pull request, describing the changes I've made.
 
