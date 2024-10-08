@@ -134,8 +134,8 @@ Issues and Feedback
 
 If you encounter any issues, bugs, or have feature requests, please use the GitHub Issues page to report them. Any feedback or suggestions are highly appreciated.
 
-@License
+@License.
 This project is licensed under the self learning - see the LICENSE file for more details.
 
-#Contact Information
+#Contact Information.
 For any questions, suggestions, or collaborations, feel free to reach out to me at londelakea1234yohoo@gmail.com.
