@@ -44,7 +44,7 @@ Database:
 MongoDB or MySQL for data storage (adjust based on your actual stack)
 Schema design to accommodate user profiles, posts, likes, comments, and more.
 Authentication:
-[Insert method, e.g., JWT for token-based authentication or OAuth for third-party logins like Google/Facebook].
+Phone/email JWT for token-based authentication or OAuth for third-party logins like Google/Facebook].
 Real-Time Features:
 WebSockets (or another real-time technology) for notifications and live updates.
 Installation
@@ -59,7 +59,7 @@ Clone the vibespace repository to your local machine using the following command
 
 bash
 Copy code
-git clone https://github.com/yourusername/vibespace.git
+git clone https://github.com/Lakea771/vibespace.git
 Navigate into the project directory:
 
 bash
