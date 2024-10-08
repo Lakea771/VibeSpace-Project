@@ -1,7 +1,8 @@
 # VibeSpace-Project
-My Social Media Platform Design using VS Code
+#My Social Media Platform Design using VS Code
 
-Project Overview
+#Project Overview
+
 Vibespace is an innovative social media platform that prioritizes creative expression. It allows users to share multimedia content, interact with others through likes, comments, and real-time notifications, and personalize their user profiles. The idea behind Vibespace is to provide a platform that merges the simplicity of social networking with powerful creative tools, making it an exciting space for users to showcase their individuality.
 
 This project is still under development, and I invite the open-source community to contribute by reporting bugs, suggesting improvements, or submitting pull requests to enhance the overall functionality and user experience of Vibespace.
@@ -130,10 +131,11 @@ New Features: Implement features like stories, live streaming, and video calls.
 Performance Optimization: Focus on scaling the backend for increased traffic.
 Multilingual Support: Add support for multiple languages to enhance accessibility.
 Issues and Feedback
+
 If you encounter any issues, bugs, or have feature requests, please use the GitHub Issues page to report them. Any feedback or suggestions are highly appreciated.
 
-License
+@License
 This project is licensed under the self learning - see the LICENSE file for more details.
 
-Contact Information
+#Contact Information
 For any questions, suggestions, or collaborations, feel free to reach out to me at londelakea1234yohoo@gmail.com.
