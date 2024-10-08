@@ -8,7 +8,7 @@ This project is still under development, and I invite the open-source community 
 
 Features
 1. User Authentication:
-Vibespace provides a secure and efficient authentication system where users can register, log in, and manage their profiles. User authentication is handled with [insert method e.g., JWT or OAuth] to ensure secure access to user data and activities.
+Vibespace provides a secure and efficient authentication system where users can register, log in, and manage their profiles. User authentication is handled with sql to ensure secure access to user data and activities.
 
 2. Personal Profiles:
 Every user gets a personalized profile page that showcases their shared content, bio, and followers. Users can customize their profile pictures, cover photos, and information to reflect their personality and brand.
@@ -17,7 +17,7 @@ Every user gets a personalized profile page that showcases their shared content,
 Vibespace enables users to share a variety of content formats, including images, videos, and text. The platform supports easy uploading and formatting options to make sharing engaging and effortless.
 
 4. Engagement Tools:
-To boost interaction, Vibespace includes tools for liking, commenting, and sharing posts. Real-time notifications help users stay updated on the latest activities happening in their network. The notification system is powered by [insert tech, e.g., WebSockets].
+To boost interaction, Vibespace includes tools for liking, commenting, and sharing posts. Real-time notifications help users stay updated on the latest activities happening in their network. The notification system is powered by Socket AI.
 
 5. Customizable User Interface:
 Vibespace offers users the ability to adjust the layout and appearance of their feed. Customization allows users to change themes, rearrange content, and adjust settings for their preferred experience.
